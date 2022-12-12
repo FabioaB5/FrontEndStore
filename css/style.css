@@ -1,6 +1,6 @@
 :root {
-    --primario: #2efce7;
-    --primarioOscuro: #1710d7;
+    --primario: #222264;
+    --primarioOscuro: #0f44e3;
     --secundario: #FFCE00;
     --secundarioOscuro: rgb(233, 187, 2);
     --blanco: #FFF;
@@ -110,7 +110,6 @@ h3 {
     background-color: var(--primarioOscuro);
     padding: 1rem;
 }
-
 .producto__nombre {
     font-size: 4rem;
 }
@@ -182,6 +181,7 @@ h3 {
 .bloque {
     text-align: center;
 }
+
 .bloque__titulo {
     margin: 0;
 }
